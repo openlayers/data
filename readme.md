@@ -1,8 +1,8 @@
 # OpenLayers Data
 
-This repository includes data used for examples hosted at openlayers.org.
+This repository includes data used for examples hosted at openlayers.org.  The contents of this repo will be published at http://openlayers.org/data/.
 
-## vector/ecoregions-2017.json
+## http://openlayers.org/data/vector/ecoregions-2017.json
 
 RESOLVE Ecoregions 2017
 
