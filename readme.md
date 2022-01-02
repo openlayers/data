@@ -2,7 +2,7 @@
 
 This repository includes data used for examples hosted at openlayers.org.  The contents of the `docs` directory in this repo will be published at http://openlayers.org/data/.
 
-## http://openlayers.org/data/vector/ecoregions-2017.json
+## http://openlayers.org/data/vector/ecoregions.json
 
 RESOLVE Ecoregions 2017
 
