@@ -2,7 +2,7 @@
 
 This repository includes data used for examples hosted at openlayers.org.  The contents of the `docs` directory in this repo will be published at http://openlayers.org/data/.
 
-## http://openlayers.org/data/vector/ecoregions.json
+## https://openlayers.org/data/vector/ecoregions.json
 
 RESOLVE Ecoregions 2017
 
@@ -13,3 +13,7 @@ RESOLVE Ecoregions 2017
 ### Terms of Use
 
 This dataset is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## https://openlayers.org/data/vector/us-states.json
+
+United States boundaries.  Downloaded from https://github.com/PublicaMundi/MappingAPI.
