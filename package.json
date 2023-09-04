@@ -1,0 +1,27 @@
+{
+  "name": "ol-data",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint scripts",
+    "typecheck": "tsc --pretty",
+    "test": "npm run lint && npm run typecheck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openlayers/data.git"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.10",
+    "@types/node": "^20.5.9",
+    "@types/yargs": "^17.0.24",
+    "es-main": "^1.3.0",
+    "eslint": "^8.48.0",
+    "eslint-config-openlayers": "^18.0.0",
+    "geofunc": "^0.4.0",
+    "typescript": "^5.2.2",
+    "yargs": "^17.7.2"
+  },
+  "eslintConfig": {
+    "extends": "openlayers"
+  }
+}
