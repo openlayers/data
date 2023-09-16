@@ -30,3 +30,7 @@ United States boundaries.  Downloaded from https://github.com/PublicaMundi/Mappi
 ## https://openlayers.org/data/vector/ocean.json
 
 Ocean polygons.  Downloaded from http://geojson.xyz/ (https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_ocean.geojson).  Processed to limit precision, wind rings following the right-hand rule, and remove properties.
+
+## https://openlayers.org/data/vector/populated-places.json
+
+Ocean polygons.  Downloaded from http://geojson.xyz/ (https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_populated_places_simple.geojson).  Processed to limit precision and remove properties.
